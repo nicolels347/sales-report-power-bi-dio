@@ -1,0 +1,15 @@
+ENTREGA DO PROJETO
+
+Este pacote já contém a estrutura e a documentação do repositório.
+
+IMPORTANTE:
+O arquivo PBIX oficial da DIO é binário e o servidor da DIO não permitiu que ele fosse baixado automaticamente por este ambiente. Por isso, nenhum PBIX falso foi incluído.
+
+Para finalizar:
+1. Baixe o Sales Report:
+   https://hermes.dio.me/files/assets/caf9857e-117f-47a0-962c-3678882a0501.pbix
+2. Renomeie para Sales_Report_Nicole_Lopes.pbix
+3. Coloque dentro da pasta power-bi
+4. Abra no Power BI Desktop, faça/salve as alterações
+5. Tire screenshots e coloque em assets
+6. Suba o conteúdo no GitHub
